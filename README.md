@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @VietPT3502
-- 👀 I’m interested in computer vision problems like:
+- 👀 I’m interested in computer vision and autonomous industry like:
   + Semantic Segmentation
   + (Oriented) Object detection
   + Tracking
   + Crowd Counting
   + Lane Line Detection
-  + Localization in Autonomous Car 
-- 🌱 I’m currently learning AI at FPT University
+  + Localization in Autonomous Car
+- 🌱 I’m currently learning AI at FPT University and working as a AI Engineer at Phenikaa-X JSC
 - 📫 How to reach me https://www.facebook.com/zlatan.vietbrahimovic
 
 <!---
